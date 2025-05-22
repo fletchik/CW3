@@ -1,5 +1,5 @@
 Здесь представлены для ознакомления открытые датасеты из статьи 
-*Single-cell microRNA-mRNA co-sequencing reveals non-genetic heterogeneity and mechanisms of microRNA regulation* $^{*}$ 
+*Single-cell microRNA-mRNA co-sequencing reveals non-genetic heterogeneity and mechanisms of microRNA regulation* (*) 
 и список общих микроРНК с датасетом, представленным ИБХ РАН FULL TCGA *common_mirna.csv* с некоторыми метриками после обучения градиентным бустингом
 
-$^{*}$ https://www.nature.com/articles/s41467-018-07981-6#data-availability
+(*) https://www.nature.com/articles/s41467-018-07981-6#data-availability
